@@ -4,6 +4,9 @@
 Created on Mon Oct 14 18:40:43 2019
 
 """
+import pandas as pd
+import numpy as np
+import sys
 
 # problem 1
         
@@ -14,7 +17,6 @@ for x in range(1000):
 sum(emptyList)
 
 # problem 2
-import sys
 
 emptyList2 = [1, 2]
 for x in range(2, sys.maxsize):
