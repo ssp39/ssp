@@ -3,7 +3,6 @@
 """
 Created on Mon Oct 14 18:40:43 2019
 
-@author: siddhiparekh
 """
 
 # problem 1
